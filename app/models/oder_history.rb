@@ -1,0 +1,2 @@
+class OderHistory < ApplicationRecord
+end
