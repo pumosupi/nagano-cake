@@ -1,2 +1,0 @@
-class OderHistory < ApplicationRecord
-end
